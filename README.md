@@ -11,3 +11,6 @@ the global score.
 Player that first reaches to the final score will be the winner of the game.
 
 Lets play!
+
+
+Link : https://utkarshgupta29.github.io/dicegame/
